@@ -1,4 +1,5 @@
 Trying to solve some problems
+line, which added master
 Another line in my project
 developer added new line
 zzzzzzz
